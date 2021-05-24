@@ -1,24 +1,17 @@
 # frontend-neuxs
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+### Despliegue del proyecto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Elaborador
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Jimmy Chirivi
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Tecnologías
+
+- Vuejs
+- Axios
